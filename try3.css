@@ -1,0 +1,66 @@
+.intropic{
+    border: 1px;
+    margin: 5px;
+    padding-left: 5%;
+    float: left; 
+    overflow: hidden;
+}
+
+.intropic img{
+    border-radius: 50%;
+
+}
+
+.intro{
+    margin: 45px;
+    margin-right: 30%;
+    margin-left: 10%;
+    background-color: rgb(107, 237, 185);
+    text-align: left;
+    font-size: large;
+    padding-top: 5px;
+    padding-right: 150px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    color: rgb(8, 89, 146);
+    border-radius: 0px 0px 40px 50px;
+}
+.cover23{
+
+margin-right: 5%;
+margin-left: 2%;
+margin-right: 30%;
+padding: 1%;
+padding-left: 5%;
+padding-right: 5%;
+text-align: left;
+background-color: aquamarine;
+
+
+}
+
+.covertext{
+margin-right: 5%;
+margin-left: 2%;
+margin-right: 30%;
+padding-left: 5%;
+padding-right: 5%;
+
+border: 5px solid red;
+background-color: antiquewhite;
+text-align: center;
+
+
+} 
+.covertexttop{
+border-radius: 40px 40px 0px 0px;
+font-size: larger;
+
+
+}
+.covertextbot{
+border-radius: 0px 0px 40px 40px;
+font-family: fantasy;
+
+
+}
